@@ -182,7 +182,7 @@ header .container nav ul {
     header .container nav ul {
         display: none;
     }
-    header .container nav .toggle:hover + ul {
+    header .container nav:hover  ul {
         display: flex;
         flex-direction: column;
         position: absolute;
